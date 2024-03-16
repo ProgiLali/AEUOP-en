@@ -1,0 +1,28 @@
+Austria;Ausztria;1995.01.01
+Belgium;Belgium;1958.01.01
+Bulgaria;Bulgária;2007.01.01
+Crotia;Horvátország;2013.07.01
+Cyprus;Ciprus;2004.05.01
+Czech Republic;Csehország;2004.05.01
+Denmark;Dánia;1973.01.01
+Estonia;Észtország;2004.05.01
+Finland;Finnország;1995.01.01
+France;Franciaország;1958.01.01
+Germany;Németország;1958.01.01
+Greece;Görögország;1981.01.01
+Hungary;Magyarország;2004.05.01
+Ireland;Írország;1973.01.01
+Italy;Olaszország;1958.01.01
+Latvia;Lettország;2004.05.01
+Lithuania;Litvánia;2004.05.01
+Luxembourg;Luxemburg;1958.01.01
+Malta;Málta;2004.05.01
+Netherlands;Hollandia;1958.01.01
+Poland;Lengyelország;2004.05.01
+Portugal;Portugália;1986.01.01
+Romania;Románia;2007.01.01
+Spain;Spanyolország;1986.01.01
+Sweden;Svédország;1995.01.01
+Slovakia;Szlovákia;2004.05.01
+Slovenia;Szlovénia;2004.05.01
+United Kingdom;Egyesült Királyság;1973.01.01
